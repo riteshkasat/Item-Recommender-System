@@ -12,7 +12,7 @@ The program takes 4 arguments
 ##Execution 
 
 
-> Python collabFilter.py ratings-dataset.tsv Kluver ‘The Fugitive’ 10
+> python collabFilter.py ratings-dataset.tsv Kluver "The Fugitive" 10
 
 - dataset.tsv: input file
 - Kluver: User id
