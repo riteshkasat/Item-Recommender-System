@@ -3,7 +3,7 @@
 
 ##Running this code
 
-- The program takes 4 arguments
+The program takes 4 arguments
 - Ratings input file
 - User id (user name)
 - Movie name to calculate prediction for

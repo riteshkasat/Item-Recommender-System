@@ -22,5 +22,5 @@ The program takes 4 arguments
 ##Output:
 
 The program will output:
--K nearest neighbors with their user ids and similarity values separated by space as per the output file
--Rating prediction for item
+- K nearest neighbors with their user ids and similarity values separated by space as per the output file
+- Rating prediction for item
