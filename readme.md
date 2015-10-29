@@ -1,0 +1,25 @@
+#Item Recommender system
+
+
+##Running this code
+
+-The program takes 4 arguments
+-Ratings input file
+-User id (user name)
+-Movie name to calculate prediction for
+-K for k neighbors
+
+##Execution 
+
+> Python collabFilter.py ratings-dataset.tsv Kluver ‘The Fugitive’ 10
+
+-dataset.tsv: input file
+-Kluver: User id
+-Movie: The Fugitive
+-K: 10
+
+##Output:
+
+The program will output:
+-K nearest neighbors with their user ids and similarity values separated by space as per the output file
+-Rating prediction for item
